@@ -16,7 +16,7 @@ const Projects = () => {
             title: 'E-Commerce Platform',
             description: 'A modern shopping experience featuring a fully functional shopping cart, secure checkout via Stripe, and user authentication.',
             tech: ['React', 'Stripe', 'Node.js'],
-            code: '#',
+            code: 'https://github.com/thilakshiya',
             demo: 'https://vrl-product-frontend-zwiz.vercel.app/',
             // Replace with your imported image variable (e.g., image: ecommerceImg)
             image: 'src/assets/myapp.png', 
