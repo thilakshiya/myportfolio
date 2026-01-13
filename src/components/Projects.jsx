@@ -17,7 +17,7 @@ const Projects = () => {
             description: 'A modern shopping experience featuring a fully functional shopping cart, secure checkout via Stripe, and user authentication.',
             tech: ['React', 'Stripe', 'Node.js'],
             code: '#',
-            demo: '#',
+            demo: 'https://vrl-product-frontend-zwiz.vercel.app/',
             // Replace with your imported image variable (e.g., image: ecommerceImg)
             image: 'src/assets/myapp.png', 
             // Keeps the color theme overlay
