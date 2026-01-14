@@ -33,26 +33,26 @@ const Projects = () => {
             image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop',
             color: 'from-cyan-500 to-blue-500'
         },
-        {
-            id: 3,
-            title: 'Real-Time Chat App',
-            description: 'Instant messaging application allowing users to create private rooms, share images, and view active status in real-time.',
-            tech: ['Socket.io', 'Express', 'React', 'MongoDB'],
-            code: '#',
-            demo: '#',
-            image: 'https://images.unsplash.com/photo-1611606063065-ee7946f0787a?q=80&w=1374&auto=format&fit=crop',
-            color: 'from-emerald-400 to-teal-600'
-        },
-        {
-            id: 4,
-            title: 'AI Image Generator',
-            description: 'A creative tool that leverages the OpenAI DALL-E API to generate unique, high-quality images based on user text prompts.',
-            tech: ['OpenAI API', 'MERN Stack', 'Cloudinary'],
-            code: '#',
-            demo: '#',
-            image: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1365&auto=format&fit=crop',
-            color: 'from-orange-400 to-purple-600'
-        },
+        // {
+        //     id: 3,
+        //     title: 'Real-Time Chat App',
+        //     description: 'Instant messaging application allowing users to create private rooms, share images, and view active status in real-time.',
+        //     tech: ['Socket.io', 'Express', 'React', 'MongoDB'],
+        //     code: '#',
+        //     demo: '#',
+        //     image: 'https://images.unsplash.com/photo-1611606063065-ee7946f0787a?q=80&w=1374&auto=format&fit=crop',
+        //     color: 'from-emerald-400 to-teal-600'
+        // },
+        // {
+        //     id: 4,
+        //     title: 'AI Image Generator',
+        //     description: 'A creative tool that leverages the OpenAI DALL-E API to generate unique, high-quality images based on user text prompts.',
+        //     tech: ['OpenAI API', 'MERN Stack', 'Cloudinary'],
+        //     code: '#',
+        //     demo: '#',
+        //     image: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1365&auto=format&fit=crop',
+        //     color: 'from-orange-400 to-purple-600'
+        // },
     ];
 
     return (

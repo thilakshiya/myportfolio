@@ -15,8 +15,8 @@ const Contact = () => {
                         I'm currently looking for new opportunities. Whether you have a question or just want to say hi, I'll try my best to get back to you!
                     </p>
                     <div className="flex gap-6">
-                        <a href="#" className="p-4 bg-white/5 border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all"><FaGithub size={24} /></a>
-                        <a href="#" className="p-4 bg-white/5 border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all"><FaLinkedin size={24} /></a>
+                        <a href="https://github.com/thilakshiya" className="p-4 bg-white/5 border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all"><FaGithub size={24} /></a>
+                        <a href="https://www.linkedin.com/in/vijayakumar-thilakshiya-089b643a3/" className="p-4 bg-white/5 border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all"><FaLinkedin size={24} /></a>
                         <a href="#" className="p-4 bg-white/5 border border-white/10 rounded-full hover:bg-white/10 hover:scale-110 transition-all"><FaEnvelope size={24} /></a>
                     </div>
                 </div>
