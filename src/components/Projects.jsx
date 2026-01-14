@@ -25,11 +25,11 @@ const Projects = () => {
         },
         {
             id: 2,
-            title: 'SaaS Analytics Dashboard',
-            description: 'Real-time data visualization dashboard for tracking business metrics. Includes interactive charts, data filtering, and dark mode.',
+            title: 'Dress Mart project',
+            description: 'Dress Mart is a full-stack e-commerce web application that allows users to browse, select, and purchase clothing items through a simple and user-friendly interface.',
             tech: ['Tailwind', 'React', 'javascript'],
-            code: '#',
-            demo: '#',
+            code: 'https://github.com/thilakshiya',
+            demo: 'https://dress-mart-project.vercel.app/',
             image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop',
             color: 'from-cyan-500 to-blue-500'
         },
