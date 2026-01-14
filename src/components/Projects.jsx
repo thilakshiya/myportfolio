@@ -30,7 +30,7 @@ const Projects = () => {
             tech: ['Tailwind', 'React', 'javascript'],
             code: 'https://github.com/thilakshiya',
             demo: 'https://dress-mart-project.vercel.app/',
-            image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1470&auto=format&fit=crop',
+            image: '',
             color: 'from-cyan-500 to-blue-500'
         },
         // {
